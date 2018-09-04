@@ -8,6 +8,9 @@ source $WORK_DIR/sites/neutra/ger
 #ESP
 source $WORK_DIR/sites/neutra/esp
 
+#العربية
+source $WORK_DIR/sites/neutra/ar
+
 #IT
 source $WORK_DIR/sites/neutra/it
 
