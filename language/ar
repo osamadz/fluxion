@@ -1,0 +1,48 @@
+header_setinterface="اختر واجهة"
+    setinterface_error="لايوجد بطافة لاسلكية، خروج..."
+
+    # >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+    header_choosescan="إختار قائمة"
+    choosescan_option_1="كل القنوات "
+    choosescan_option_2="قناة خاصة"
+    # >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+    scanchan_option_1="قناة واحدة"
+    scanchan_option_2="عدة قنوات"
+    # >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+    header_scan="مراقب الواي فاي"
+    # >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+    header_scanchan="فحص الشبكة"
+    # >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+    header_askAP="إختار أداة الهجوم"
+    askAP_option_1="FakeAP - Hostapd ("$red"موصى به)"
+    askAP_option_2="FakeAP - airbase-ng (إتصال بطيء)"
+    askAP_option_4="Bruteforce - (Handshake مطلوب)"
+    # >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+    header_askauth="METHODE DE VÉRIFICATION DU PASSWORD"
+    askauth_option_1="Handshake ("$red"موصى به)"
+    askauth_option_2="Wpa_supplicant (الكثير من الأعطال)"
+    # >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+    header_deauthforce="التحقق من Handshake"
+    deauthforce_option_1="aircrack-ng (أقل حظا)"
+    # >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+    header_deauthMENU="*الإمساك بـ Handshake*"
+    deauthMENU_option_1="التحقق من Handshake"
+    # >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+    header_webinterface="إختار أداة"
+    header_ConnectionRESET="إختار واجهة الدخول"
+    # >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+    general_back="رجوع"
+    general_error_1="غير موجود"
+    general_case_error="أداة غير معروفة. إختار واحدة جديدة"
+    general_exitmode="تنظيف وإغلاق"
+    general_exitmode_1="تعطيل واجهة المراقبة"
+    general_exitmode_2="تعطيل الواجهة"
+    general_exitmode_3="تعذر على "$grey" نقل الحزمة"
+    general_exitmode_4="تنظيف "$grey"iptables"
+    general_exitmode_5="إسترجاع "$grey"tput"
+    general_exitmode_6="إعادة تشغيل "$grey"مدير الشبكة"
+    general_exitmode_7="التنظيف تم بنجاح!"
+    general_exitmode_8="شكرا لك على استخدام فلكسيون fluxion"
+    # >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+    selection_1="عملاء نشطون"
+    selection_2="حدد هدف. لإعادة الفحص إضغط$red r$transparent"
